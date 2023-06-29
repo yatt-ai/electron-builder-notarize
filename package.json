@@ -3,11 +3,9 @@
 	"version": "1.5.1",
 	"description": "Notarize Electron applications using electron-builder",
 	"license": "MIT",
-	"repository": "https://github.com/karaggeorge/electron-builder-notarize",
+	"repository": "https://github.com/yatt-ai/electron-builder-notarize",
 	"author": {
-		"name": "George Karagkiaouris",
-		"email": "karaggeorge0@gmail.com",
-		"url": "https://gkaragkiaouris.tech"
+		"name": "YATT"
 	},
 	"peerDependencies": {
 		"electron-builder": ">= 20.44.4"
